@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  assigned_to: one
+  assigned_to_type: Assigned to
+
+two:
+  assigned_to: two
+  assigned_to_type: Assigned to
